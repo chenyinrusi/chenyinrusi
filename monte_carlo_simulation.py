@@ -42,7 +42,8 @@ def lm_simulation(ppl_no=100, simu_no=100, cutoff_no=37):
             next_pick_no.append('')
             next_pick_result.append('')
         else:
-            pass
+            pass 
+            
 
     stats_no_one = (simu_no - len(succ_pick)) / simu_no
     stats_avg_result = statistics.mean(succ_result)
