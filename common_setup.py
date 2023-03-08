@@ -21,10 +21,11 @@ def setup_description():
     )
 
 
-def setup(project_name='TEST',
-          parent_folder=os.getcwd(),
-          sub_folders=['LOG', 'SOURCE', 'DATA']
-          ):
+def setup(
+        parent_folder,
+        project_name='TEST',
+        sub_folders=['LOG', 'SOURCE', 'DATA']
+):
     start_time = datetime.datetime.now()
     start_timestamp = datetime.datetime.now().isoformat()
     start_timestamp = start_timestamp.replace('-', '')

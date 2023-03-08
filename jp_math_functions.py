@@ -20,6 +20,7 @@ def pc_output_description():
         *method - either 'unique' or 'order'(default), output in unique index order, or unique values;
     
         *print_results - either 'yes' (default) or 'no', print result in screen or not;
+        
     '''
     )
 
