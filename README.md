@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chenyinrusi
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on Python/VBA/SQL
 - 📫 jarrypan@gmail.com
 
